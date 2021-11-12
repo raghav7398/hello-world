@@ -4,4 +4,4 @@
 <h2 style="background-color:DodgerBlue;"> Jenkins</h2>
 <h3 style="background-color:DodgerBlue;"> Deployment using Ansible</h3>
 <p> SUCCESS</p>
-<p> Successfully deployed using Ansible</p>
+<p> Successfully deployed using Ansible Playbook</p>
